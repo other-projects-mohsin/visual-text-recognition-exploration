@@ -60,7 +60,8 @@ The detailed analysis of the proposed method's effectiveness in English Scene Te
 PARSeq
 
 ***
-I attempted to understant and infer the code of [ViTSTR](https://github.com/roatienza/deep-text-recognition-benchmark), and [TrOCR](https://github.com/microsoft/unilm/tree/master/trocr).
+## Code Understanding and Validation
+I attempted to understand and performed inference on the code of [ViTSTR](https://github.com/roatienza/deep-text-recognition-benchmark), and [TrOCR](https://github.com/microsoft/unilm/tree/master/trocr).
 
 
 
