@@ -61,7 +61,7 @@ PARSeq
 
 ***
 ## Code Understanding and Validation
-I attempted to understand and performed inference on the code of [ViTSTR](https://github.com/roatienza/deep-text-recognition-benchmark), and [TrOCR](https://arxiv.org/abs/2109.10282).
+I attempted to understand and performed inference on the code of [ViTSTR](https://github.com/roatienza/deep-text-recognition-benchmark), and [TrOCR](https://arxiv.org/abs/2109.10282) adapted from [here](https://www.kaggle.com/code/eavprog/trocr).
 
 
 
